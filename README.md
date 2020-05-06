@@ -1,0 +1,2 @@
+# trybot
+discord javascript bot
